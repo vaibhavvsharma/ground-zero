@@ -23,8 +23,6 @@ In a world in which capital and labour are abundant, DAOs will end up filtering 
 
 ## You can't go long without Crypto Twitter
 
-{% embed url="https://twitter.com/akshaybd/status/1447057623925211139" %}
-
 ## FAQs
 
 If you have any doubts related to this topic or you have a suggestion, feel free to create an issue [here](https://github.com/SuperteamDAO/ground-zero/issues).
